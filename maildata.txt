@@ -1,0 +1,4 @@
+a-know@a-know.com=a-know
+b-know@a-know.com=b-know
+c-know@a-know.com=c-know
+d-know@a-know.com=d-know
